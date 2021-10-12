@@ -10,7 +10,7 @@
   -HTML5  
   -CSS3  
   -JS  
-* 개발툴
+* 개발툴  
   -STS4  
   -VS Code
 * 프레임워크
