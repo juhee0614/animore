@@ -1,12 +1,25 @@
-Ani-more
-========
+## Ani-more🐶
+- 반려동물에 관한 정보를 통합조회할 수 있는 홈페이지  
+- 반려인들끼리 서로 정보를 공유할 수 있는 공간
 
-<pre>
-  Ani-more는 반려인들을 위한 정보제공 커뮤니티입니다.
-  반려동물 시장은 나날이 커져가지만 동물출입가능 시설이나 
-  동물제품에 대한 고객경험은 여전히 찾기 어려운 상황입니다.
-  Ani-more에서 동물시설 정보를 한번에 찾아보고, 반려인들 간의 고객경험을 공유해보세요!
-</pre>
-<hr>
-<p>관련 자료 : </p> 
-<p>시연 영상 : https://youtu.be/MsyzeF6NDVY</p> 
+>소요기술⌨
+* 언어  
+  -JAVA11  
+  -SQL  
+* 웹표준  
+  -HTML5  
+  -CSS3  
+  -JS  
+* 개발툴
+  -STS4  
+  -VS Code
+* 프레임워크
+  -Spring Framework/Spring Boot
+* DB연동
+  -Spring JDBC
+* 데이터교환
+  -AJAX, REST API, JSON
+* 형상관리
+  -GitHub
+* Open API
+  -울산광역시 동물병원 현황, KAKAO MAP
